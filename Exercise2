@@ -1,0 +1,538 @@
+Last login: Mon Sep 28 22:34:33 on ttys000
+
+dssco@Yumas-MacBook-Pro ~ % cd Desktop
+
+dssco@Yumas-MacBook-Pro Desktop % mkdir MDIA2526Backup
+
+dssco@Yumas-MacBook-Pro Desktop % cd Ex2
+
+dssco@Yumas-MacBook-Pro Ex2 % cat error.txt
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+ontainerFork.js:32:23)
+
+1000 codes probably for step 5
+
+dssco@Yumas-MacBook-Pro Ex2 % head - 20 error.txt
+head: -: No such file or directory
+head: 20: No such file or directory
+==> error.txt <==
+Error: Could not find a valid build in the 'C:\Windows\system32\.next' directory! Try building your app with 'next build' before starting the server.
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:1138:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1158:10)
+    at Module.load (internal/modules/cjs/loader.js:986:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:879:14)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    
+dssco@Yumas-MacBook-Pro Ex2 % tail -10 error.txt
+    at Server.readBuildId (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:111:355)
+    at new Server (C:\websites\careerbuildnew\node_modules\next\dist\next-server\server\next-server.js:3:120)
+    at createServer (C:\websites\careerbuildnew\node_modules\next\dist\server\next.js:2:328)
+    at Object.<anonymous> (C:\websites\careerbuildnew\server.js:7:13)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Object.<anonymous> (C:\Program Files\nodejs\node_modules\pm2\lib\ProcessContainerFork.js:32:23)
+    
+dssco@Yumas-MacBook-Pro Ex2 % cd ~/Desktop
+
+dssco@Yumas-MacBook-Pro Desktop % touch commands.txt
+
+dssco@Yumas-MacBook-Pro Ex2 % nano error.txt
+
+dssco@Yumas-MacBook-Pro Ex2 % head -2 error.txt
+"My name is #name"
+
+dssco@Yumas-MacBook-Pro Ex2 % cd ..
+
+dssco@Yumas-MacBook-Pro Desktop % cd MDIA2526Backup
+
+dssco@Yumas-MacBook-Pro MDIA2526Backup % mkdir txt
+dssco@Yumas-MacBook-Pro MDIA2526Backup % mkdir svgs
+dssco@Yumas-MacBook-Pro MDIA2526Backup % mkdir pngs
+dssco@Yumas-MacBook-Pro MDIA2526Backup % mkdir arrows
+dssco@Yumas-MacBook-Pro MDIA2526Backup % mkdir startsWithG
+dssco@Yumas-MacBook-Pro MDIA2526Backup % mkdir all
+
+dssco@Yumas-MacBook-Pro MDIA2526Backup % cp ../Ex2/imgs/*.svg svgs
+dssco@Yumas-MacBook-Pro MDIA2526Backup % cp ../Ex2/imgs/*.png pngs
+dssco@Yumas-MacBook-Pro MDIA2526Backup % cp ../Ex2/imgs/*arrow* arrows 
+dssco@Yumas-MacBook-Pro MDIA2526Backup % cp ../Ex2/imgs/*G* startsWithG
+
+dssco@Yumas-MacBook-Pro MDIA2526Backup % cd ..
+
+dssco@Yumas-MacBook-Pro Desktop % cp -r Ex2 all
+
+dssco@Yumas-MacBook-Pro Desktop % cd MDIA2526Backup
+
+dssco@Yumas-MacBook-Pro MDIA2526Backup % mv all Original  
+
+dssco@Yumas-MacBook-Pro MDIA2526Backup % find svgs -name "*.svg"
+svgs/comparison-size.svg
+svgs/search.svg
+svgs/back-arrow-white.svg
+svgs/arrow-down.svg
+svgs/close-icon.svg
+svgs/save-icon.svg
+svgs/searchProgram.svg
+svgs/educationReport.svg
+svgs/careerbuild.svg
+svgs/comparison-salary.svg
+svgs/comparison-turnover.svg
+svgs/back-arrow.svg
+svgs/arrow.svg
+svgs/turnover-icon.svg
+svgs/home.svg
+svgs/favActive.svg
+svgs/occupationReport.svg
+svgs/male-icon.svg
+svgs/back-icon-white.svg
+svgs/location-pin.svg
+svgs/light-wave.svg
+svgs/graphic.svg
+svgs/x.svg
+svgs/filter-icon.svg
+svgs/location-icon.svg
+svgs/x-icon.svg
+svgs/question.svg
+svgs/female-icon.svg
+svgs/droparrow.svg
+svgs/comparison-industry.svg
+svgs/PlanAhead.svg
+svgs/future.svg
+svgs/build-arrow-icon.svg
+svgs/forward-arrow.svg
+svgs/PersonWithSwoosh.svg
+svgs/to-calendar.svg
+svgs/comparison-vacancy.svg
+svgs/add-keyword-icon.svg
+svgs/drag-icon.svg
+svgs/black-arrow-down.svg
+svgs/occupation.svg
+svgs/retirement-icon.svg
+svgs/compare.svg
+svgs/search-icon.svg
+svgs/menu-close-icon.svg
+svgs/bcit-graduate.svg
+svgs/program-graduate.svg
+svgs/fav.svg
+svgs/Union.svg
+svgs/growth-icon.svg
+svgs/applicants-icon.svg
+svgs/categories.svg
+svgs/star.svg
+svgs/back-icon-black.svg
+svgs/comparison-gender.svg
+svgs/tracker.svg
+svgs/menu-icon.svg
+svgs/program-size.svg
+svgs/profile.svg
+svgs/filter.svg
+svgs/build-report.svg
+svgs/employed-icon.svg
+svgs/arrow-btn.svg
+svgs/comparison-growth.svg
+svgs/logo.svg
+svgs/black-arrow.svg
+svgs/thin-up-arrow.svg
+svgs/thin-down-arrow.svg
+svgs/light.svg
+
+dssco@Yumas-MacBook-Pro MDIA2526Backup % find pngs -name "*.png"
+pngs/egg-carton.png
+pngs/acitvitiesResults.png
+pngs/physical.png
+pngs/turtle.png
+pngs/home-active.png
+pngs/moreTurtle.png
+pngs/moreGames.png
+pngs/profile-active.png
+pngs/games.png
+pngs/resultGames.png
+pngs/gummies.png
+pngs/news-tv.png
+pngs/game1.png
+pngs/home.png
+pngs/moreActivities.png
+pngs/categories-active.png
+pngs/back-arrow.png
+pngs/arrow-forward.png
+pngs/gamesThumbnail.png
+pngs/search.png
+pngs/film.png
+pngs/moreSnacks.png
+pngs/arts.png
+pngs/snackResult.png
+pngs/resultArts.png
+pngs/snacks.png
+pngs/profile.png
+pngs/tracker-active.png
+pngs/tracker.png
+pngs/categories.png
+pngs/berry-eat.png
+pngs/artsThumbnail.png
+pngs/checkers.png
+pngs/knockout-game.png
+pngs/favorite.png
+pngs/snackThumbnail.png
+pngs/activitiesThumbnail.png
+pngs/DotToDot.png
+
+
+
+
